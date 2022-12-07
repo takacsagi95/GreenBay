@@ -1,2 +1,2 @@
 # GreenBay
-Green Fox Academy project phase "Homework" project: building a "GreenBay" webshop 
+Green Fox Academy project : building a "GreenBay" web REST API with spring boot
