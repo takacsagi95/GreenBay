@@ -27,5 +27,6 @@ So please keep this in mind when looking at this repo.
 - MySQL & H2 database (for tests)
 
 ### Planned to use:
+- Create GitHub actions for automatic style checks.
 - Cloud technology to deploy the application in production, like Heroku, Azure etc..
 - Dockerization of the project
